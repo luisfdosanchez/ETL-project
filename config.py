@@ -1,1 +1,3 @@
-api_key='bcc43569d274560beb2de5c6940a145625df5c2cded6db677ea0be08822e7c06'
+api_key='Your Banxico API token here!'
+
+#You can get it from --> https://www.banxico.org.mx/SieAPIRest/service/v1/token
